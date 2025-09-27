@@ -1,6 +1,5 @@
 """
 Export Agent endpoints for PDF generation and content export functionality.
-Based on the AI-Academic-Assistant-main project's export features.
 """
 
 from fastapi import APIRouter, HTTPException, File, UploadFile, Form, status
